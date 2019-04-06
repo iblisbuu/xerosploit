@@ -30,7 +30,7 @@ Instalation
 =
 Dependencies will be automatically installed.
 
-    git clone https://github.com/LionSec/xerosploit
+    git clone https://github.com/iblisbuu/xerosploit
     cd xerosploit && sudo python install.py
     sudo xerosploit
 
@@ -74,25 +74,3 @@ features
 - Drifnet
 - Webpage defacement and more ...
 
-Demonstration
-=
-https://www.youtube.com/watch?v=35QUrtZEV9U
-
-I have some questions!
-=
-
-Please visit https://github.com/LionSec/xerosploit/issues
-
-Donations
-=
-- Paypal : https://www.paypal.me/lionsec
-- Bitcoin : 12dM5kZjYMizNuXaqu7QZBLNDkXjfKYpRD
-
-
-Contact
-=
-- Website : http://lionsec.net
-- Youtube : https://youtube.com/inf98es
-- Facebook : https://facebook.com/in98
-- Twitter: @LionSec1
-- Email : informatic98es@gmail.com
