@@ -30,7 +30,7 @@ Instalation
 =
 Dependencies will be automatically installed.
 
-    git clone https://github.com/iblisbuu/xerosploit
+    git clone https://github.com/iblisbuu/xerosploit.git
     cd xerosploit && sudo python install.py
     sudo xerosploit
 
